@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leslie M. Kollar / Site Title"
+title                    : "Leslie M. Kollar"
 title_separator          : "-"
 name                     : &name "Leslie M. Kollar"
 description              : &description "PhD Candidate"
