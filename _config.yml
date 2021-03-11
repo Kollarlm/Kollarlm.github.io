@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leslie M. Kollar"
 title_separator          : "-"
 name                     : &name "Leslie M. Kollar"
-description              : &description "PhD Candidate"
+description              : &description "PhD"
 url                      : https://Kollarlm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kollarlm/Kollarlm.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Leslie M Kollar"
   avatar           : "profile.jpeg"
-  bio              : "PhD Candidate at the University of Florida"
-  location         : "Gainesville FL"
-  employer         :
+  bio              : "NSF PGRP Postdoctoral Research Fellow"
+  location         : "East Lansing, MI"
+  employer         : "Michigan State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=c-FPk5oAAAAJ&hl=en"
   email            : "Kollarlm@ufl.edu"
