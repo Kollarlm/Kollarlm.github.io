@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Leslie M. Kollar, PhD"
-permalink: /Curriculum vitae/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
