@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Leslie M. Kollar, PhD"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
