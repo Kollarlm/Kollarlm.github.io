@@ -92,7 +92,7 @@ East Lansing, 48824	    |	lesliemkollar@gmail.com
 
 # PUBLICATIONS
 
-* **Kollar L.M**. Clark, T.N, Scola D.N., James A., Carnley C., Kiel, S., Rosenstiel T., Gall E., 
+***Kollar L.M**. Clark, T.N, Scola D.N., James A., Carnley C., Kiel, S., Rosenstiel T., Gall E., 
 	Grieship K., McDaniel S.F. 2020. The genetic architecture of sexual dimorphism   in the moss Ceratodon purpureus. Proc. R. Soc. B. 288  
 
 Carey S.B., **Kollar L.M.**, McDaniel S., Does degeneration or genetic conflict shape gene
@@ -113,7 +113,7 @@ Moore J.D., **Kollar L. M.**, McLetchie N.D., 2016. Does selection for gamete di
 
 ## In preparation:
 
-* **Kollar, LM**, Brennan, DL*, Kiel, S, Deakova, T Laguerre, A, McDaniel, SF, Gall, E, 
+***Kollar, LM**, Brennan, DL*, Kiel, S, Deakova, T Laguerre, A, McDaniel, SF, Gall, E, 
 	Rosenstiel, T (2021) Volatile emissions from moss gametophytes: a review 
 	of  methodology and new applications. APPS.  In preperation  
 
