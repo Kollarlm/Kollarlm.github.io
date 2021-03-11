@@ -18,14 +18,15 @@ East Lansing, 48824	    |	lesliemkollar@gmail.com
 							
 # EDUCATION 
 
-2021- present		NSF Post-Doctoral Fellow, National Plant Genome Initiative Postdoctoral Research Fellowship in Biology, East Lansing, MI          
-2014- 2020 	 	University of Florida (Ph.D)  
-			Dissertation title: “Understanding the underlying genetic architecture of volatile production in moss”   
-  			Gainesville, Florida Department of Biology  
-  			Advisor: Stuart F. McDaniel  
-2010-2014		Washington & Jefferson College (B.A.)  
-  			Washington, PA  
-			Major in Biology and Minor in Business  
+| 2021- present		NSF Post-Doctoral Fellow, National Plant Genome Initiative Postdoctoral Research Fellowship in Biology, East Lansing, MI          
+| 2014- 2020 	 	University of Florida (Ph.D)  
+|			Dissertation title: “Understanding the underlying genetic architecture of volatile production in moss”   
+|  			Gainesville, Florida Department of Biology  
+|  			Advisor: Stuart F. McDaniel  
+
+|2010-2014		Washington & Jefferson College (B.A.)  
+| 			Washington, PA  
+|			Major in Biology and Minor in Business  
 
 # PROFESSIONAL EXPERIENCE
 
@@ -35,26 +36,37 @@ East Lansing, 48824	    |	lesliemkollar@gmail.com
 			* Build radSEQ libraries for moss systems  
 		 	* Trained visiting scholars, graduate students, faculty and post docs.  
 			* Analyzed sequence data.  
+
 2019		Research assistant, NSF Genealogy of Flagellate plants educational outreach, Emily Sessa, Department of Biology, University of Florida   
 			* Designed learning modules for elementary, middle school, high school, and undergraduate students.  
 			* Used educational technology to test learning outcomes.  
 			* Mentored REU students in morphology modules and trained high school teachers in implementation of flagellate plants in curriculum.  
+
 2013 		Intern, NSF Research experience for undergraduates Internship: Suburban ecology and invasive species, Dr. Nicholas McLetchie, Department of Biology, University of 		   Kentucky  
 			* Compared differences in morphologies of male and female Bryum argenteum and their ability to retain water using external and internal water retentions 			   and heat shock experiments  
 			* Correlated morphological dimorphisms with biased sex ratios  
+
 2012 		Intern, HHMI Research Internship, Dr. Claire Burns, Department of Biology, W&J College   
 			* Investigated effects of multiple mutants (rad50, npl6, hir1, and mre11) in Coprinus cinereus  
 
 ## Teaching Employment
 
 2018		TA, Evolution, Charlie Baer, Department of Biology, University of Florida  
+
 2017 & 2019	TA, Evolution (online), Norm Douglas, Department of Biology, University of Florida  
+
 2016		TA, Introduction to botany, Francis Jack Putz, Department of Biology, University of Florida  
+
 2016-2018	Lead TA, Introduction to biology for non majors, Dr. Kent Vilet, Department of Biology, University of Florida  
+
 2016		TA, General biology discussion leader, Dr. Kent Vilet, Department of Biology, University of Florida  
+
 2014-2015	TA, General biology laboratory teaching Assistant, Dr. Kent Vilet, Department of Biology, University of Florida  
+
 2014		Lab Assistant Biology 100, Anne McGrain, W&J College  
+
 2014		Lab Assistant, General Botany, Jason Kilgore, W&J College  
+
 2012-2014	Lab Assistant, General Biology II, Anne McGrain, W&J College  
 		
 		*Designed and taught course*
@@ -82,14 +94,19 @@ East Lansing, 48824	    |	lesliemkollar@gmail.com
 
 * **Kollar L.M**. Clark, T.N, Scola D.N., James A., Carnley C., Kiel, S., Rosenstiel T., Gall E., 
 	Grieship K., McDaniel S.F. 2020. The genetic architecture of sexual dimorphism   in the moss Ceratodon purpureus. Proc. R. Soc. B. 288  
+
 Carey S.B., **Kollar L.M.**, McDaniel S., Does degeneration or genetic conflict shape gene
 	content on UV sex chromosomes? Bryophyte Diversity and Evolution.  
+
 Carey S.B., **Kollar L.M.**, et al., 2020. Chromosome fusions shape an ancient UV sex 
 	chromosome system. Biorxiv.  
+
 Carey, Sarah, **Kollar L.M.**, and Stuart McDaniel. 2020. Does Degeneration or Genetic 
 	Conflict Shape Gene Content on UV Sex Chromosomes? EcoEvoRxiv.   
+
 Moore J.D., **Kollar L. M.**, McLetchie N.D., 2016. Does selection for gamete dispersal and 
 	capture lead to a sex difference in clump water holding capacity? AJB. 1449-57.  
+
 **Kollar L. M.**, Morrissey C. A., 2013. Shade-tolerant tree species may become more important in ash dominant forests after emerald ash borer (Agrilus planipennis) infestation. 	   Ohio J. Sci. 113: 24.  
 
 *Invited publications
@@ -98,7 +115,8 @@ Moore J.D., **Kollar L. M.**, McLetchie N.D., 2016. Does selection for gamete di
 
 * **Kollar, LM**, Brennan, DL*, Kiel, S, Deakova, T Laguerre, A, McDaniel, SF, Gall, E, 
 	Rosenstiel, T (2021) Volatile emissions from moss gametophytes: a review 
-	of  methodology and new applications. APPS.  In preperation
+	of  methodology and new applications. APPS.  In preperation  
+
 Kreider C.M., Medina S., Koedam H., Kollar L.M., Garvan G., Yu Wu C., Lan M., 
 	Percival S.S., 	2020. Disability-informed mentorship for undergraduates in STEM 
 	with learning and attention disorders. J Vocat Behav. In preparation
