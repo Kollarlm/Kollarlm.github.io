@@ -11,21 +11,21 @@ redirect_from:
 
 # Leslie M. Kollar
 ------------------------------------------------------
-Department of Plant Biology | lesliemkollar@gmail.com
-Michigan State University   | Website: 
+Department of Plant Biology | 
+Michigan State University   | 
 612 Wilson Road		    |						
-East Lansing, 48824	    |						
+East Lansing, 48824	    |	lesliemkollar@gmail.com					
 							
 # EDUCATION 
 
-2021- present		NSF Post-Doctoral Fellow, National Plant Genome Initiative Postdoctoral Research Fellowship in Biology, East Lansing, MI        
-2014- 2020 	 	University of Florida (Ph.D)
-			Dissertation title: “Understanding the underlying genetic architecture of volatile production in moss” 
-  			Gainesville, Florida Department of Biology
-  			Advisor: Stuart F. McDaniel
-2010-2014		Washington & Jefferson College (B.A.)
-  			Washington, PA
-			Major in Biology and Minor in Business
+2021- present		NSF Post-Doctoral Fellow, National Plant Genome Initiative Postdoctoral Research Fellowship in Biology, East Lansing, MI          
+2014- 2020 	 	University of Florida (Ph.D)  
+			Dissertation title: “Understanding the underlying genetic architecture of volatile production in moss”   
+  			Gainesville, Florida Department of Biology  
+  			Advisor: Stuart F. McDaniel  
+2010-2014		Washington & Jefferson College (B.A.)  
+  			Washington, PA  
+			Major in Biology and Minor in Business  
 
 # PROFESSIONAL EXPERIENCE
 
