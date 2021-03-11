@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Leslie M. Kollar
 ------------------------------------------------------
 Department of Plant Biology | 
 Michigan State University   | 
